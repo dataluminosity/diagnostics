@@ -14,3 +14,10 @@ TCPDump
 -------
 
 http://www.androidtcpdump.com/android-tcpdump/downloads
+
+Battery Stats
+-------------
+
+https://developer.android.com/studio/profile/battery-historian.html
+
+https://github.com/google/battery-historian
